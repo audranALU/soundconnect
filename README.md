@@ -44,4 +44,4 @@ SoundConnect is a platform designed to help beginner musicians showcase their sk
 
 ## 🎥 Demo Video
 
-<your video link>
+https://youtu.be/0Fd58gyFR0A
